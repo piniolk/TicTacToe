@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\Katherine\\GitHub\\piniolk\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
